@@ -82,7 +82,7 @@ src/
 
 Repositório público contendo o projeto completo e o README com os prompts utilizados:
 
-https://github.com/vazmerces-thay/vitejs-vite-34qvzdng
+https://github.com/vazmerces-thay/amazonia_palace_resort
 
 ---
 
